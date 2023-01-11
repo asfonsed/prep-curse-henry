@@ -1,2 +1,3 @@
 # prep-curse-henry
-repositorio de prueba 
+practicando la edcicion de un repositorio de manera local para subirlo luego a la nube en github
+añadiendo otro cambio
